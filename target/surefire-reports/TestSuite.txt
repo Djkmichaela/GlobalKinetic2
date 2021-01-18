@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 5.685 s <<< FAILURE! - in TestSuite
+Initialize(UniversalAPPMaven.UniversalAppMaven.HomePageTest)  Time elapsed: 3.364 s  <<< FAILURE!
+java.lang.IllegalArgumentException: Malformed \uxxxx encoding.
+	at UniversalAPPMaven.UniversalAppMaven.HomePageTest.Initialize(HomePageTest.java:21)
+
